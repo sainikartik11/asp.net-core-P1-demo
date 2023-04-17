@@ -1,0 +1,17 @@
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\bin\Debug\net6.0\Epicor.DataAccess.deps.json
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\bin\Debug\net6.0\Epicor.DataAccess.runtimeconfig.json
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\bin\Debug\net6.0\Epicor.DataAccess.dll
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\bin\Debug\net6.0\Epicor.DataAccess.pdb
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\bin\Debug\net6.0\Epicor.Models.dll
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\bin\Debug\net6.0\Epicor.Models.pdb
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.AssemblyInfo.cs
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.csproj.CopyComplete
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.dll
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\refint\Epicor.DataAccess.dll
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.pdb
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\Epicor.DataAccess.genruntimeconfig.cache
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.DataAccess\obj\Debug\net6.0\ref\Epicor.DataAccess.dll

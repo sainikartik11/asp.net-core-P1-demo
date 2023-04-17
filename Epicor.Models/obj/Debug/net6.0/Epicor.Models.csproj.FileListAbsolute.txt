@@ -1,0 +1,12 @@
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\bin\Debug\net6.0\Epicor.Models.deps.json
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\bin\Debug\net6.0\Epicor.Models.dll
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\bin\Debug\net6.0\Epicor.Models.pdb
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\Epicor.Models.csproj.AssemblyReference.cache
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\Epicor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\Epicor.Models.AssemblyInfoInputs.cache
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\Epicor.Models.AssemblyInfo.cs
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\Epicor.Models.csproj.CoreCompileInputs.cache
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\Epicor.Models.dll
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\refint\Epicor.Models.dll
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\Epicor.Models.pdb
+C:\Users\kartik.saini\source\repos\DatabaseEPICOR\Epicor.Models\obj\Debug\net6.0\ref\Epicor.Models.dll
